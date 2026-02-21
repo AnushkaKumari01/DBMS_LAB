@@ -1,8 +1,5 @@
--- ====================================================
--- DBMS Lab Experiment 1
--- Student: Anushka Kumari, Section: 2CSE8, Roll No: 2410031326
--- 2nd Year, 4th Semester
--- ====================================================
+
+## EXPERIMENT - 01 
 
 # 1. Create Database
 ```
