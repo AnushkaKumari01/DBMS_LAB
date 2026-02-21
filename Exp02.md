@@ -1,4 +1,4 @@
-### Experiment 2: Retrieving Data using Employee Table
+# Experiment 2: Retrieving Data using Employee Table
 
 
 # 1. List all distinct jobs in Employee table
