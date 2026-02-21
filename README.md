@@ -24,7 +24,7 @@ DBMS-MySQL-Lab/
 ## Usage
 Clone the repository:
 ```bash
-git clone https://github.com/AnushkaKumari01/DBMS-.git
+git clone https://github.com/AnushkaKumari01/DBMS_LAB.git
 ```
 Then-: 
 1. Open MySQL Workbench or any MySQL client.
