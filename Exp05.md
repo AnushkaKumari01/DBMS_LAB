@@ -83,7 +83,7 @@ SELECT CONCAT(
 SELECT LENGTH('ANUSHKA KUMARI') AS name_length;
 ```
 
--- 15. Display the length of all employee names
+## 15. Display the length of all employee names
 ```sql
 SELECT ename, LENGTH(ename) AS name_length FROM employee;
 ```
