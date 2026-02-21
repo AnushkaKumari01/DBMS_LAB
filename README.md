@@ -27,5 +27,5 @@ Clone the repository:
 git clone https://github.com/AnushkaKumari01/DBMS-.git
 ```
 Then-: 
-Open MySQL Workbench or any MySQL client.
-Run the .sql files according to lab and question numbers.
+1. Open MySQL Workbench or any MySQL client.
+2. Run the .sql files according to lab and question numbers.
