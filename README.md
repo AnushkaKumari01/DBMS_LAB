@@ -3,7 +3,7 @@
 - **Name:** Anushka Kumari
 - **Section:** 2CSE8
 - **Year/Semester:** 2nd Year, 4th Semester
-- **Roll No:** 2410031326
+- **Roll No:** 2410031268
 
 ## Overview
 This repository contains MySQL solutions for DBMS lab experiments, covering table creation, data manipulation, queries, joins, aggregations, transactions, and backup/recovery. It provides hands-on practice to reinforce SQL and relational database concepts.
