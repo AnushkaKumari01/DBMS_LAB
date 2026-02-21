@@ -16,8 +16,8 @@ This repository contains MySQL solutions for DBMS lab experiments, covering tabl
 ## Repository Structure
 ```
 DBMS-MySQL-Lab/
-├── Lab1/  # Experiment 1 scripts
-├── Lab2/  # Experiment 2 scripts
+├── Exp01/  # Experiment 1 scripts
+├── Exp02/  # Experiment 2 scripts
 └── README.md
 ```
 
